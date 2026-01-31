@@ -1,9 +1,0 @@
-setup.py
-retail.egg-info/PKG-INFO
-retail.egg-info/SOURCES.txt
-retail.egg-info/dependency_links.txt
-retail.egg-info/top_level.txt
-src/__init__.py
-src/cleaning.py
-src/db.py
-src/features.py
